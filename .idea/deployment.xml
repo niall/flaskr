@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/nialloshea92/flaskr.git" uploadOnCheckin="d1046818-11fe-45c5-a5a6-814573010da4">
-    <option name="myUploadOnCheckinName" value="https://github.com/nialloshea92/flaskr.git" />
-  </component>
+  <component name="PublishConfigData" serverName="https://github.com/nialloshea92/flaskr.git" />
 </project>
